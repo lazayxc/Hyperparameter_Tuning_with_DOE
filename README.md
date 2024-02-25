@@ -3,4 +3,4 @@ Optimal performance of novel machine learning models often relies on meticulous 
 [Report (long!)](https://github.com/lazayxc/hypercube_backup/blob/main/6413_Hypercube.pdf)
 
 
-[Presentation Slides (short!)](https://github.com/lazayxc/hypercube_backup/blob/main/Hypercube_%20a%20DOE-informed%20hyperparameter%20optimization%20machine.pptx)
+[Presentation Slides (short!)](https://github.com/lazayxc/Hyperparameter_Tuning_with_DOE/blob/main/Hypercube_Final_Slides.pdf)
